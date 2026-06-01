@@ -1,7 +1,9 @@
-# SMLIT
-Semiconductor Manufacturing Logistics-Intensity Testbed
+# README.md
 
-## Overview
+## SMLIT: An Open Testbed for Logistics-Intensity Analysis in Semiconductor Manufacturing
+### Authors: Seongho Cho, Seungchae Na, Sangchul Park, and Youngchul Shin
+
+This repository contains the data and simulator for the paper "SMLIT: An Open Testbed for Logistics-Intensity Analysis in Semiconductor Manufacturing" published in IEEE Transactions on Semiconductor Manufacturing (TSM) in xxxx.
 SMLIT is an open testbed for semiconductor FAB logistics research.
 It provides standardized logistics scenarios and an OHT simulator for evaluating logistics performance under different FAB scales and workload intensities.
 
