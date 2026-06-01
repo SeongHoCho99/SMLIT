@@ -34,3 +34,10 @@ The SMLIT simulator models OHT-based logistics operations in semiconductor FABs.
 
 If you use SMLIT in your research, please cite our paper:
 
+## Acknowledgment
+
+This work was supported by Carlo Corporation; the Technology Development Program (RS-2025-24535453) funded by the Ministry of SMEs and Startups (MSS, Korea); and the Institute for Information and Communications Technology Promotion grant (RS-2026-25519431) funded by the Korean government (MSIT); 
+
+## Contact
+
+Seongho Cho, +82-10-4333-6345, phillip4321@ajou.ac.kr
