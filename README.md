@@ -1,6 +1,7 @@
 # README.md
 
 ### SMLIT: An Open Testbed for Logistics-Intensity Analysis in Semiconductor Manufacturing
+***
 #### Authors: Seongho Cho, Seungchae Na, Sangchul Park, and Youngchul Shin
 
 This repository contains the data and simulator for the paper "SMLIT: An Open Testbed for Logistics-Intensity Analysis in Semiconductor Manufacturing" published in IEEE Transactions on Semiconductor Manufacturing (TSM) in xxxx.
